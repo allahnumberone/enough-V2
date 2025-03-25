@@ -1499,7 +1499,7 @@ while 1:
                                                                                              
                                                                                              
 
- Enough V2 [ Discord : cyrozer_ ]
+ Enough V2 [ Discord : zozosndlwlskxmmdr_ ]
                                                                                
 
  Sms Api: {} 
